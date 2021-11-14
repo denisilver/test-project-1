@@ -1,3 +1,8 @@
+.div {
+    margin: 5px;
+    border: 1px solid #bebebf ;
+}
+
 .flex-container {
     display: flex;
     flex-direction: column;
@@ -5,7 +10,12 @@
 }
 
 .top {
-    display:flex;
-    flex-direction: row;
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
 }
