@@ -24,3 +24,8 @@ div {
     flex-direction: row;
 
 }
+
+.right {
+    display: flex;
+    flex-direction: column;
+}
