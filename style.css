@@ -5,7 +5,7 @@ div {
 
 .flex-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .header {
