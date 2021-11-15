@@ -35,3 +35,8 @@ div {
     display: flex;
     flex-direction: column;
 }
+
+.button {
+    position: relative;
+    border: 1px solid white;
+}
