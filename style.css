@@ -1,6 +1,6 @@
 div {
     margin: 10px;
-    border: 1px solid #bebebe;
+    border: 1px color: rgba(152, 201, 77, .4);
 }
 
 .flex-container {
@@ -23,6 +23,11 @@ div {
     display: flex;
     flex-direction: row;
 
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
 }
 
 .right {
