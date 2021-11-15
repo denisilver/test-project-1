@@ -14,7 +14,7 @@ div {
     justify-content: space-between;
 }
 
-.down-content {
+.навигация {
     display: flex;
     flex-direction: column;
 }
