@@ -1,11 +1,11 @@
 div {
-    margin: 15px;
+    margin: 10px;
     border: 1px solid #bebebe;
 }
 
 .flex-container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 .header {
