@@ -1,6 +1,6 @@
 div {
     margin: 10px;
-    border: 1px color: rgba(152, 201, 77, .4);
+    border: 1px solid red;
 }
 
 .flex-container {
